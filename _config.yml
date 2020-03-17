@@ -90,9 +90,9 @@ algolia:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  #- type: git
-  #  repo: git@e.coding.net:starxg/blog.git
-  #  branch: master
+  - type: git
+    repo: git@kb.e.coding.net:xtin/stmol.git
+    branch: master
 
   - type: git
     repo: git@github.xbwaccount.com:YQHP-Happi/YQHP-Happi.github.io.git

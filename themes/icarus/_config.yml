@@ -145,7 +145,7 @@ widgets:
         # Whether to show avatar image rounded or square
         avatar_rounded: true
         # Path or URL for the follow button
-        #follow_link: 'http://github.com/starxg'
+        follow_link: 'http://github.com/starxg'
         # Links to be shown on the bottom of the profile widget
         #social_links:
         #    Github:
