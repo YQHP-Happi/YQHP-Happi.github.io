@@ -179,7 +179,7 @@ widgets:
         # Links to be shown in the links widget
         links:
         #    GTA5: 'http://stmol.cn'
-            TakeMenu: 'http://fastspan.org'
+            搜罗资源网: 'https://www.soluow.com/'
     -
         # Widget name
         type: category
